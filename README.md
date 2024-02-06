@@ -4,3 +4,4 @@
 2024-01-16-Added how to use getchar and putchar programs. Added how to copy characters from keyboard one by one and out those characters to screen
 2024-01-17 Program to number of blanks, number of tabs, number of lines added
 2024-01-30 vertical histogram program
+2024-02-05 c program to print a word as input per line
