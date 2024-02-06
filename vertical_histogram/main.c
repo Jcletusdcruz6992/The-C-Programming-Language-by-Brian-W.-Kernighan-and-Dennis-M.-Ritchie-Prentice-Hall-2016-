@@ -43,7 +43,7 @@ putchar('\n');
 }
 putchar('\n');
 for(int j=1;j<=MAX_WORD_LENGTH;j++){
-    printf("%2d ",j);
+    printf("%2d",j);
 }
 putchar('\n');
 
